@@ -1,0 +1,1 @@
+This Mobile Application can be used by parent to track his/her child who would have a GPS enabled mobile with this application running. The parent can set a predetermined route and track to see if the child is travelling is appropriate route. If in case the child moves away from route, the parent will be notified and a text message/call can be made.
